@@ -39,6 +39,7 @@
 <li>Explored employee counts based on whether they operate from headquarters or remotely.</li></ul>
 
 ### Visualized insights in PowerBI
+<img src="https://github.com/VasanthM27/SQL-PowerBI-Project/blob/main/SQL%20Queries%20For%20HR%20Analytics.sql"/></br>
 
 ### Average Length of Employment
 <ul><li>Calculated the average length of employment for terminated employees in years.</li>
