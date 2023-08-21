@@ -29,7 +29,7 @@
 
 ### Age Classification and Gender Distribution
 <ul>
-  <li>Categorized employees into age groups (e.g., 18-24, 25-34) and visualized the distribution by gender.</li>
+  <li>Categorized employees into age groups (e.g.,18-24, 25-34) and visualized the distribution by gender.</li>
 <li>Explored the variation in gender distribution across different age groups.</li>
 </ul>
 
