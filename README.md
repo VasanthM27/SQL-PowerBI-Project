@@ -38,6 +38,8 @@
 <ul><li>Analyzed the distribution of employees by their locations (city and state).</li>
 <li>Explored employee counts based on whether they operate from headquarters or remotely.</li></ul>
 
+### Visualized insights in PowerBI
+
 ### Average Length of Employment
 <ul><li>Calculated the average length of employment for terminated employees in years.</li>
 <li>Filtered the dataset to include only terminated employees and calculated the average tenure.</li></ul>
