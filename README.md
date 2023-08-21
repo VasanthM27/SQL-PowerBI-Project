@@ -33,13 +33,12 @@
 <li>Explored the variation in gender distribution across different age groups.</li>
 </ul>
 
+### Visualized insights in PowerBI
+<img src="https://github.com/VasanthM27/SQL-PowerBI-Project/blob/main/HR%20Employee%20Analytics%20Report.png"/></br>
 
 ### Employee Location Analysis
 <ul><li>Analyzed the distribution of employees by their locations (city and state).</li>
 <li>Explored employee counts based on whether they operate from headquarters or remotely.</li></ul>
-
-### Visualized insights in PowerBI
-<img src="https://github.com/VasanthM27/SQL-PowerBI-Project/blob/main/SQL%20Queries%20For%20HR%20Analytics.sql"/></br>
 
 ### Average Length of Employment
 <ul><li>Calculated the average length of employment for terminated employees in years.</li>
@@ -52,6 +51,9 @@
 ### Job Title Distribution
 <ul><li>Visualized the distribution of job titles across the organization.</li>
 <li>Calculated the number of employees in each job title category.</li></ul>
+
+### Visualized insights in PowerBI
+<img src="https://github.com/VasanthM27/SQL-PowerBI-Project/blob/main/page2hr%20report.png"/></br>
 
 ### Department Turnover Rate
 <ul><li>Identified departments with the highest turnover rates.</li>
